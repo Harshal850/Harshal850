@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Harshal850
+- 👋 Hi, I’m @Harshal850 3rd yr ETNC student
 - 👀 I’m interested in IT Sector
-- 🌱 I’m currently learning C Programming
+- 🌱 I’m currently learning C & C++ language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at harshalchaudhari850@gmail.com
 
 <!---
 Harshal850/Harshal850 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
