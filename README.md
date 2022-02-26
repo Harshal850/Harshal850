@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshal850 3rd yr ETNC student
+- 👋 Hi, I’m Harshal Chaudhari 3rd yr ETNC student
 - 👀 I’m interested in IT Sector
 - 🌱 I’m currently learning C & C++ language
 - 💞️ I’m looking to collaborate on ...
